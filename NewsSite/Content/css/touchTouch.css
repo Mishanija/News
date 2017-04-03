@@ -1,0 +1,143 @@
+/* The gallery overlay */
+
+#galleryOverlay {
+    -moz-transition: opacity 1s ease;
+    -webkit-transition: opacity 1s ease;
+    background-color: #222;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: none;
+    height: 100%;
+    left: 0;
+    opacity: 0;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+	
+    transition: opacity 1s ease;
+    width: 100%;
+    z-index: 100000;
+}
+
+/* This class will trigger the animation */
+
+#galleryOverlay.visible { opacity: 1; }
+
+#gallerySlider {
+    -moz-transition: left 0.4s ease;
+	
+    -webkit-transition: left 0.4s ease;
+    height: 100%;
+	
+    left: 0;
+    position: absolute;
+    top: 0;
+	
+    transition: left 0.4s ease;
+    white-space: nowrap;
+    width: 100%;
+}
+
+#gallerySlider .placeholder {
+    background: url(../img/loader.gif) no-repeat center center;
+    display: inline-block;
+    height: 100%;
+    line-height: 1px;
+    text-align: center;
+    width: 100%;
+}
+
+/* The before element moves the
+ * image halfway from the top */
+
+#gallerySlider .placeholder:before {
+    content: "";
+    display: inline-block;
+    height: 50%;
+    margin-right: -1px;
+    width: 1px;
+}
+
+#gallerySlider .placeholder img {
+    display: inline-block;
+    max-height: 100%;
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+#gallerySlider.rightSpring {
+    -moz-animation: rightSpring 0.3s;
+    -webkit-animation: rightSpring 0.3s;
+}
+
+#gallerySlider.leftSpring {
+    -moz-animation: leftSpring 0.3s;
+    -webkit-animation: leftSpring 0.3s;
+}
+
+/* Firefox Keyframe Animations */
+
+@-moz-keyframes rightSpring {
+    0% { margin-left: 0px; }
+
+    50% { margin-left: -30px; }
+
+    100% { margin-left: 0px; }
+}
+
+@-moz-keyframes leftSpring {
+    0% { margin-left: 0px; }
+
+    50% { margin-left: 30px; }
+
+    100% { margin-left: 0px; }
+}
+
+/* Safari and Chrome Keyframe Animations */
+
+@-webkit-keyframes rightSpring {
+    0% { margin-left: 0px; }
+
+    50% { margin-left: -30px; }
+
+    100% { margin-left: 0px; }
+}
+
+@-webkit-keyframes leftSpring {
+    0% { margin-left: 0px; }
+
+    50% { margin-left: 30px; }
+
+    100% { margin-left: 0px; }
+}
+
+/* Arrows */
+
+#prevArrow, #nextArrow {
+    -moz-transition: opacity 0.2s ease;
+    -webkit-transition: opacity 0.2s ease;
+    background: url('../img/arrows.png') no-repeat;
+    border: none;
+    cursor: pointer;
+    height: 58px;
+    margin-top: -29px;
+    opacity: 0.5;
+	
+    position: absolute;
+    text-decoration: none;
+	
+    top: 50%;
+    transition: opacity 0.2s ease;
+    width: 43px;
+}
+
+#prevArrow:hover, #nextArrow:hover { opacity: 1; }
+
+#prevArrow {
+    background-position: left top;
+    left: 40px;
+}
+
+#nextArrow {
+    background-position: right top;
+    right: 40px;
+}

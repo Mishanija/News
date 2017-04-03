@@ -1,0 +1,275 @@
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\NewsSite.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\NewsSite.pdb
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\DotNetOpenAuth.AspNet.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\DotNetOpenAuth.Core.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\EntityFramework.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\Newtonsoft.Json.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\System.Net.Http.Formatting.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\System.Web.Http.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\System.Web.Http.WebHost.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\System.Web.Mvc.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\System.Web.Optimization.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\System.Web.WebPages.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\System.Web.WebPages.Razor.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\WebMatrix.WebData.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\EntityFramework.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\Newtonsoft.Json.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\System.Net.Http.Formatting.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\System.Web.Http.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\System.Web.Http.WebHost.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\System.Web.Mvc.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\System.Web.WebPages.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\System.Web.WebPages.Razor.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\WebMatrix.WebData.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\DotNetOpenAuth.AspNet.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\DotNetOpenAuth.Core.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\obj\Debug\NewsSite.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\obj\Debug\NewsSite.pdb
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\obj\Debug\NewsSite.csprojResolveAssemblyReference.cache
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\NewsSite.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\NewsSite.pdb
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.AspNet.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.Core.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\EntityFramework.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\Newtonsoft.Json.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\System.Net.Http.Formatting.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\System.Web.Http.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\System.Web.Http.WebHost.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\System.Web.Mvc.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\System.Web.Optimization.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\System.Web.WebPages.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\System.Web.WebPages.Razor.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\WebMatrix.WebData.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\EntityFramework.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\Newtonsoft.Json.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\System.Net.Http.Formatting.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\System.Web.Http.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\System.Web.Http.WebHost.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\System.Web.Mvc.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\System.Web.WebPages.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\System.Web.WebPages.Razor.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\WebMatrix.WebData.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.AspNet.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.Core.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\obj\Debug\NewsSite.csprojResolveAssemblyReference.cache
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\obj\Debug\NewsSite.dll
+D:\ASP_.NET Developer\Projects\NewsSite\NewsSite\NewsSite\obj\Debug\NewsSite.pdb
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\NewsSite.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\NewsSite.pdb
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\Antlr3.Runtime.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.AspNet.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.Core.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\EntityFramework.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\Microsoft.Data.Edm.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\Microsoft.Data.OData.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\Newtonsoft.Json.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Net.Http.Formatting.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Spatial.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Web.Helpers.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Web.Http.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Web.Http.OData.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Web.Http.WebHost.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Web.Mvc.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Web.Optimization.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Web.Razor.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Web.WebPages.Deployment.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Web.WebPages.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Web.WebPages.Razor.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\WebGrease.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\WebMatrix.Data.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\WebMatrix.WebData.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\EntityFramework.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\Newtonsoft.Json.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Net.Http.Formatting.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Web.Helpers.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Web.Http.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Web.Http.WebHost.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Web.Mvc.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Web.Razor.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Web.WebPages.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Web.WebPages.Deployment.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Web.WebPages.Razor.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\WebMatrix.Data.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\WebMatrix.WebData.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.AspNet.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.Core.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Web.Http.OData.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\Microsoft.Data.Edm.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\Microsoft.Data.OData.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\System.Spatial.xml
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\de\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\es\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\it\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\de\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\es\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\fr\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\it\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\ja\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\ko\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\ru\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\de\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\es\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\fr\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\it\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\ja\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\ko\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\ru\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\zh-Hans\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\bin\zh-Hant\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\obj\Debug\NewsSite.csprojResolveAssemblyReference.cache
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\obj\Debug\NewsSite.dll
+D:\ASP_.NET Developer\Projects\NewsSite(6)\NewsSite\NewsSite\NewsSite\obj\Debug\NewsSite.pdb
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\NewsSite.dll
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\NewsSite.pdb
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.AspNet.dll
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\EntityFramework.dll
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\System.Web.Http.dll
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\System.Web.Http.WebHost.dll
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\System.Web.Mvc.dll
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\System.Web.Optimization.dll
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\System.Web.WebPages.dll
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\System.Web.WebPages.Razor.dll
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\WebMatrix.WebData.dll
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\System.Net.Http.Formatting.dll
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\Newtonsoft.Json.dll
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.Core.dll
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.dll
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.dll
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\EntityFramework.xml
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\System.Web.Http.xml
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\System.Web.Http.WebHost.xml
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\System.Web.Mvc.xml
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\System.Web.WebPages.xml
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\System.Web.WebPages.Razor.xml
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\WebMatrix.WebData.xml
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.AspNet.xml
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\System.Net.Http.Formatting.xml
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\Newtonsoft.Json.xml
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.Core.xml
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.xml
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.xml
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\obj\Debug\NewsSite.csprojResolveAssemblyReference.cache
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\obj\Debug\NewsSite.dll
+D:\ASP_.NET Developer\Projects\NewsSite(12)(Последняя версия)\NewsSite\NewsSite\NewsSite\obj\Debug\NewsSite.pdb
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\NewsSite.dll
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\NewsSite.pdb
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.AspNet.dll
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\EntityFramework.dll
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.Http.dll
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.Http.WebHost.dll
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.Mvc.dll
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.Optimization.dll
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.WebPages.dll
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.WebPages.Razor.dll
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\WebMatrix.WebData.dll
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Net.Http.Formatting.dll
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\Newtonsoft.Json.dll
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.Core.dll
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.dll
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.dll
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\EntityFramework.xml
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.Http.xml
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.Http.WebHost.xml
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.Mvc.xml
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.WebPages.xml
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.WebPages.Razor.xml
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\WebMatrix.WebData.xml
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.AspNet.xml
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Net.Http.Formatting.xml
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\Newtonsoft.Json.xml
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.Core.xml
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.xml
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.xml
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\obj\Debug\NewsSite.csprojResolveAssemblyReference.cache
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\obj\Debug\NewsSite.dll
+D:\ASP_.NET Developer\Projects\NewsSite(15)(Финальный)\NewsSite\NewsSite\obj\Debug\NewsSite.pdb
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\NewsSite.dll
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\NewsSite.pdb
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.AspNet.dll
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\EntityFramework.dll
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.Http.dll
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.Http.WebHost.dll
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.Mvc.dll
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.Optimization.dll
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.WebPages.dll
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.WebPages.Razor.dll
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\WebMatrix.WebData.dll
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Net.Http.Formatting.dll
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\Newtonsoft.Json.dll
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.Core.dll
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.dll
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.dll
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\EntityFramework.xml
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.Http.xml
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.Http.WebHost.xml
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.Mvc.xml
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.WebPages.xml
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Web.WebPages.Razor.xml
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\WebMatrix.WebData.xml
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.AspNet.xml
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\System.Net.Http.Formatting.xml
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\Newtonsoft.Json.xml
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.Core.xml
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.OAuth.xml
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\bin\DotNetOpenAuth.OpenId.xml
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\obj\Debug\NewsSite.csprojResolveAssemblyReference.cache
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\obj\Debug\NewsSite.dll
+D:\Программирование\Projects\ASP .NET\News\NewsSite(15)(Финальный)\NewsSite\NewsSite\obj\Debug\NewsSite.pdb
